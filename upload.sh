@@ -19,8 +19,6 @@ do
     esac
 done
 
-#
-# Parameter $1: The port to upload to e.g. /dev/ttyACM0 or /dev/ttyACM1 ..
 function upload() {
     python -m there -p $PORT push --recursive --force $SRC_DIR $DEST_DIR
 }
