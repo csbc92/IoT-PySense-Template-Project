@@ -2,11 +2,11 @@
 Use this repo as a template for future projects for the PyCom. It contains the minimum necessary libraries to get started.
 
 # Structure of the repo
-    * scripts/boot.py - first file to execute
-    * scripts/main.py - file that is executed after boot.py
-    * scripts/cert - certificates (if any)
-    * scripts/lib - all the libraries needed to run your project goes into this folder
-    * scripts/sys - sys folder
+* scripts/boot.py - first file to execute
+* scripts/main.py - file that is executed after boot.py
+* scripts/cert - certificates (if any)
+* scripts/lib - all the libraries needed to run your project goes into this folder
+* scripts/sys - sys folder
 
 
 # Usage of upload/delete scripts
