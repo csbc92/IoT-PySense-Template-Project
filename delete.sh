@@ -1,6 +1,6 @@
 #!/bin/bash
 #
-# Script that pushes the scripts folders to the pycom board
+# Script that deletes files on the pycom board
 #
 
 # Default variables
